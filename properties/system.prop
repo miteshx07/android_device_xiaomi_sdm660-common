@@ -1,3 +1,9 @@
+ro.infinity.soc=Snapdragon 660
+ro.infinity.battery=4000 mAh
+ro.infinity.display=1080 × 2340, 60 Hz
+ro.infinity.camera=48MP + 5MP
+ro.product.marketname=Redmi Note 7
+
 # ART
 ro.vendor.qti.am.reschedule_service=true
 ro.sys.fw.dex2oat_thread_count=8
